@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}pdfinfo
+${licensePrefix}(c) 2010 by io.droidme
+<#if licenseLast??>
+${licenseLast}
+</#if>
